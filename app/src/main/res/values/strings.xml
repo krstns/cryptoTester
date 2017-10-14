@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CryptoTester</string>
+    <string name="buttonStart">Start Test</string>
+    <string name="statusDecryptionLargeFiles">Decryption: Large Files</string>
+    <string name="statusDecryptionSmallFiles">Decryption: Small Files</string>
+    <string name="statusEncryptionSmallFiles">Encryption: Small Files</string>
+    <string name="statusEncryptionLargeFiles">Encryption: Large Files</string>
+    <string name="statusDecryptionLargeFilesExternal">Ext. Decryption: Large Files</string>
+    <string name="statusDecryptionSmallFilesExternal">Ext. Decryption: Small Files</string>
+    <string name="statusEncryptionSmallFilesExternal">Ext. Encryption: Small Files</string>
+    <string name="statusEncryptionLargeFilesExternal">Ext. Encryption: Large Files</string>
+    <string name="preparingForTest">Test Preparation</string>
+</resources>
